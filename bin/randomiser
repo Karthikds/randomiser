@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'randomiser'
+rescue LoadError
+  require 'rubygems'
+  require 'randomiser'
+end
