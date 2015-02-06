@@ -1,7 +1,10 @@
 # Randomiser
 
-This is a simple gem, which generates a random string (only alphabets/ alphaneumeric/ with time)
-The default string length generated is 10. The desired count can be passed as an arrgument for the related methods
+Randomiser helps you in generating a random string like - [only alphabets/ alphanumeric/ with time].
+
+The default string length generated is 10. The desired count can be passed as an argument for the related methods
+
+Generating a string with time, may be useful in scenarios like generating a random string and should be unique at all timehe related methods
 
 
 ##Supports 
