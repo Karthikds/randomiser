@@ -1,5 +1,4 @@
 require "spec_helper"
-
 describe Randomiser::GenerateRandomString do 
 	it "should return a string of alphabets" do
 	  	expect(Randomiser::GenerateRandomString.alphabetsOnly.length).to be == 10
